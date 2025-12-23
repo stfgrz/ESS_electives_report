@@ -8,7 +8,8 @@ This repository contains a Jupyter notebook that performs an extensive analysis 
 
 ## License
 
-This project is part of the ESS program analysis toolkit.
+This project is part of the ESS program survival toolkit.
+Copyright © Stefano Graziosi. All rights reserved.
 
 ## Contact
 
